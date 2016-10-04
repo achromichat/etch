@@ -1,0 +1,12 @@
+.container {
+	margin:auto;
+	height:960px;
+	width:960px;
+}
+.box {
+	float:right;
+	clear:left;
+	background-color: white;
+	margin:0;
+	padding:0;
+}
